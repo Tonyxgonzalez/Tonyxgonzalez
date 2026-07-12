@@ -1,27 +1,11 @@
-## Hi, I'm Tonyxgonzalez 👋
+## Hey There 👋
 
-Welcome to my GitHub profile!
+I'm Tony, a MIS Major based in San Jose
 
-About Me
-🎓 I'm a Management Information Systems (MIS) student.
-💻 I'm learning full-stack web development.
-🌱 I'm currently improving my skills in JavaScript, React, Node.js, and SQL.
-🚀 I'm building projects to strengthen my programming and problem-solving skills.
-📚 I'm interested in software development, databases, and business technology.
-Skills
-HTML & CSS
-JavaScript
-React
-Node.js
-Express
-SQL & PostgreSQL
-Git & GitHub
-Current Projects
-🛒 Retail POS & Inventory Management System
-📦 Inventory Management System
-📊 Business Dashboard
-Goals
-Build real-world full-stack applications.
-Contribute to open-source projects.
-Continue learning modern web technologies.
-Start a career as a software developer.
+
+## 👨‍💻 About Me
+
+- 🎓 MIS Student
+- 💻 Learning Full-Stack Development
+- 🌱 Currently learning React, Node.js, and PostgreSQL
+- 🚀 Building real-world projects
