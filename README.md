@@ -1,11 +1,18 @@
-## Hey There 👋
+## Hey There! 👋
 
-I'm Tony, a MIS Major based in San Jose
+I'm Tony, a Management Infomation Sytems major based in San Jose.
 
+I'm passionate about learning how to design and build projects that solve real-world problems.
 
-## 👨‍💻 About Me
+Currently learning:
+- React
+- Node.js
+- PostgreSQL
 
-- 🎓 MIS Student
-- 💻 Learning Full-Stack Development
-- 🌱 Currently learning React, Node.js, and PostgreSQL
-- 🚀 Building real-world projects
+Building projects to improve my skills and create useful business solutions.
+
+**Fun Facts:**
+- 🐶 I have a 10-year-old dog named Whiskey
+- 🍵 Matcha > Coffee
+- ⚔️ Berserk is my favorite anime
+- 🎮 Hobbies: Anime, gym, and learning video editing
